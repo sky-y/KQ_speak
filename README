@@ -1,0 +1,12 @@
+
+プログラミング言語KQ(http://ideone.com/DDWfy)を改造して、
+Hello Worldプログラムをゆっくりにしゃべらせてみました。
+
+原作者：@nvsoft氏 (http://twitter.com/#!/nvsofts)
+使用したソフト・ライブラリ：
+Mojiモジュール (http://gimite.net/gimite/rubymess/moji.html)
+SayKana (http://www.a-quest.com/quickware/saykana/)
+
+Mojiモジュールはgemでインストール出来ます。
+sudo gem install moji
+
